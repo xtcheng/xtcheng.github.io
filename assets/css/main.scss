@@ -33,22 +33,35 @@
   float: none;
 }
 
+
+/* 侧边栏名字 */
 .author__name {
-  font-size: 20px !important; /* 默认大概是 20px，数字越大字越大 */
-  font-weight: bold;          /* 如果想加粗，保留这一行；不想加粗就删掉 */
+  font-size: 20px !important;    
+  font-weight: 700 !important;   
+  line-height: 1.5;              /* 行高 */
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif; /* 简洁的无衬线字体 */
 }
 
-/* 2. 修改侧边栏“Bio (个人简介)”的大小 */
+/* 侧边栏 Bio (简介) */
 .sidebar .author__bio {
   font-size: 16px !important;
+  margin-top: 10px;              /*名字和简介稍微拉开一点距离*/
 }
 
-/* 3. 修改网页“正文”的大小 */
+/* 3. 正文文字  */
 body {
-  font-size: 16px !important; /* 默认是 16px，觉得小可以改成 18px 或 20px */
+  font-size: 16px !important;    
+  line-height: 1.6;              
 }
 
-/* 4. 修改文章标题 (H1, H2...) 的大小 */
-h1 { font-size: 26px !important; } /* 一级大标题 */
-h2 { font-size: 22px !important; } /* 二级标题 (News, Publications) */
-h3 { font-size: 18px !important; } /* 三级标题 */
+/* 4. 各级标题 (News, Publications) */
+h2 {
+  font-size: 26px !important;    /* 二级标题大小 */
+  font-weight: 700;
+  border-bottom: 1px solid #eaecef; /* 标题下面分割线 */
+  padding-bottom: 0.3em;
+}
+
+h3 {
+  font-size: 22px !important;    /* 三级标题 */
+}
