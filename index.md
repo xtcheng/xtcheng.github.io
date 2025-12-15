@@ -7,7 +7,7 @@ author_profile: true
 
 Hi! I am **Xiaotong Cheng**. I am currently an Assistant Professor at School of Computer Science and Technology, Shandong University. 
 
-Prior to this, I obtained my PhD (Summa Cum Laude) from Ruhr University Bochum in 2025, advised by Prof. Setareh Maghsudi. My research focuses on multi-agent systems, online decision-making and game theory.
+Prior to this, I obtained my PhD (summa cum laude) from Ruhr University Bochum in 2025. My research focuses on multi-agent systems, online decision-making and game theory.
 
 ---
 

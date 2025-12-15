@@ -25,5 +25,30 @@
   text-align: center;
 }
 
+.author__urls.social-icons {
+  text-align: center;
+}
+.author__urls.social-icons li {
+  display: inline-block; /* 让图标横排居中 */
+  float: none;
+}
 
-/* --- 自定义修改结束 --- */
+.author__name {
+  font-size: 10px !important; /* 默认大概是 20px，数字越大字越大 */
+  font-weight: bold;          /* 如果想加粗，保留这一行；不想加粗就删掉 */
+}
+
+/* 2. 修改侧边栏“Bio (个人简介)”的大小 */
+.sidebar .author__bio {
+  font-size: 6px !important;
+}
+
+/* 3. 修改网页“正文”的大小 */
+body {
+  font-size: 10px !important; /* 默认是 16px，觉得小可以改成 18px 或 20px */
+}
+
+/* 4. 修改文章标题 (H1, H2...) 的大小 */
+h1 { font-size: 30px !important; } /* 一级大标题 */
+h2 { font-size: 20px !important; } /* 二级标题 (News, Publications) */
+h3 { font-size: 10px !important; } /* 三级标题 */
