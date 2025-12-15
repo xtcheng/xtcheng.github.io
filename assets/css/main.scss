@@ -1,0 +1,29 @@
+---
+# 配置文件
+---
+
+@import "minimal-mistakes";
+
+/* --- 自定义修改开始 --- */
+
+/* 1. 强制头像图片居中 */
+.author__avatar {
+  display: table; /* 或者 block */
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 2. 强制头像内部的图片居中 */
+.author__avatar img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* 3. 强制名字和 Bio 介绍文字居中 */
+.sidebar .author__content {
+  text-align: center;
+}
+
+
+/* --- 自定义修改结束 --- */
