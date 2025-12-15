@@ -7,7 +7,7 @@ author_profile: true
 
 Hi! I am Xiaotong. I am currently an Assistant Professor in the School of Computer Science and Technology at Shandong University. 
 
-I obtained my Ph.D. (summa cum laude*) from Ruhr University Bochum in 2025, where I was advised by Prof. Setareh Maghsudi. 
+I obtained my Ph.D. (summa cum laude) from Ruhr University Bochum in 2025, where I was advised by Prof. Setareh Maghsudi. 
 
 My research lies at the intersection of online learning, game theory, and multi-agent systems. I am particularly interested in designing provably efficient algorithms for decision-making in complex, dynamic environments, with applications in IoT and Edge Intelligence.
 
@@ -17,7 +17,7 @@ My research lies at the intersection of online learning, game theory, and multi-
 
 My current research centers on the following themes:
 
-* **Online Learning & Bandits** Developing theoretical foundations for online decision-making under uncertainty, with a focus on multi-armed bandits (MAB), **contextual bandits**, and anomaly-aware learning in networked environments.
+* **Online Learning & Bandits** Developing theoretical foundations for online decision-making under uncertainty, with a focus on multi-armed bandits (MAB), contextual bandits, and online learning in networked environments.
 
 * **Multi-agent Systems & Game Theory** Modeling interactions among autonomous agents using game-theoretical frameworks. I study how to achieve efficient coordination in decentralized systems through learning algorithms.
 
@@ -27,26 +27,95 @@ My current research centers on the following themes:
 
 ## Selected Publications
 
-**Networked Contextual Bandits with Anomaly-Aware Learning** **Xiaotong Cheng**, Setareh Maghsudi  
-*Accepted by IEEE Transactions on Signal Processing* 
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Networked Contextual Bandits with Anomaly-Aware Learning
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Setareh Maghsudi
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    Accepted by IEEE Transactions on Signal Processing
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+  </div>
+</div>
 
-**Online Influence Maximization With Semi-Bandit Feedback Under Corruptions** **Xiaotong Cheng**, Behzad Nourani-Koliji, Setareh Maghsudi 
-*IEEE Transactions on Network Science and Engineering, 2025* 
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Online Influence Maximization With Semi-Bandit Feedback Under Corruptions
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Behzad Nourani-Koliji, Setareh Maghsudi
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    IEEE Transactions on Network Science and Engineering, 2025
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+  </div>
+</div>
 
-**Distributed Management of Fluctuating Energy Resources in Dynamic Networked Systems** **Xiaotong Cheng**, Ioannis Tsetis, Setareh Maghsudi
-*IEEE Transactions on Network Science and Engineering, 2024* 
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Distributed Management of Fluctuating Energy Resources in Dynamic Networked Systems
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Ioannis Tsetis, Setareh Maghsudi
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    IEEE Transactions on Network Science and Engineering, 2024
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+  </div>
+</div>
 
-**Distributed Consensus Algorithm for Decision-Making in Multiagent Multiarmed Bandit** **Xiaotong Cheng**, Setareh Maghsudi  
-*IEEE Transactions on Control of Network Systems, 2024*
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Distributed Consensus Algorithm for Decision-Making in Multiagent Multiarmed Bandit
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Setareh Maghsudi
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    IEEE Transactions on Control of Network Systems, 2024
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+  </div>
+</div>
 
-**Parallel Online Clustering of Bandits via Hedonic Game** **Xiaotong Cheng**, Cheng Pan, Setareh Maghsudi 
-*International Conference on Machine Learning, 2023*
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Parallel Online Clustering of Bandits via Hedonic Game
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Cheng Pan, Setareh Maghsudi
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    International Conference on Machine Learning (ICML), 2023
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+    <a href="#" style="margin-left: 5px; font-style: normal; text-decoration: none;">[Code]</a>
+  </div>
+</div>
 
-**Distributed Task Management in Fog Computing: A Socially Concave Bandit Game** **Xiaotong Cheng**, Setareh Maghsudi  
-*IEEE Transactions on Green Communications and Networking, 2023*
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Distributed Task Management in Fog Computing: A Socially Concave Bandit Game
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Setareh Maghsudi
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    IEEE Transactions on Green Communications and Networking, 2023
+    <a href="#"
 
-**Multitask Cooperative Formation Control of Autonomous Surface Vehicles with Interception of Moving Objects** **Xiaotong Cheng**, Yu Lu, Lei Qiao, Zhihuan Hu, Weidong Zhang
-*IEEE Journal of Oceanic Engineering*
+<div style="margin-bottom: 25px;">
+  <div style="font-weight: bold; font-size: 18px; color: #333;">
+    Multitask Cooperative Formation Control of Autonomous Surface Vehicles with Interception of Moving Objects
+  </div>
+  <div style="margin-top: 3px; color: #444;">
+    <b>Xiaotong Cheng</b>, Yu Lu, Lei Qiao, Zhihuan Hu, Weidong Zhang
+  </div>
+  <div style="margin-top: 3px; font-style: italic; color: #666;">
+    IEEE Journal of Oceanic Engineering, 2020
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+  </div>
+</div>
 
 ---
 
