@@ -65,3 +65,14 @@ h2 {
 h3 {
   font-size: 22px !important;    /* 三级标题 */
 }
+
+.author__avatar img {
+  filter: none !important; 
+  -webkit-filter: none !important;
+  opacity: 1 !important;
+}
+
+.author__avatar:hover img {
+  transform: none !important;
+  box-shadow: none !important;
+}

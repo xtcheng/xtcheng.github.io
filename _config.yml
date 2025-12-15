@@ -32,7 +32,7 @@ author:
   name: "Xiaotong Cheng"
   avatar: "/assets/images/cxt.jpg" 
   bio: "Assistant Professor @ SDU"
-  location: "Shandong, China"
+  #location: "Shandong, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
