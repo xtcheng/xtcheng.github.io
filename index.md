@@ -29,7 +29,7 @@ My current research centers on the following themes:
 
 <div style="margin-bottom: 25px;">
   <div style="font-weight: bold; font-size: 18px; color: #333;">
-    Networked Contextual Bandits with Anomaly-Aware Learning
+    Anomaly Detection in Networked Bandits
   </div>
   <div style="margin-top: 3px; color: #444;">
     <b>Xiaotong Cheng</b>, Setareh Maghsudi
@@ -158,7 +158,7 @@ My current research centers on the following themes:
     M.S. in Electrical Engineering
   </div>
   <div style="margin-top: 2px; color: #444;">
-    Technical University of Berlin
+    Technical University of Berlin 
     <span style="font-style: italic; color: #666; font-size: 15px; margin-left: 10px;">(2017 - 2019)</span>
   </div>
 </div>
