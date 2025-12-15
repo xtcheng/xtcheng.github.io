@@ -102,7 +102,9 @@ My current research centers on the following themes:
   </div>
   <div style="margin-top: 3px; font-style: italic; color: #666;">
     IEEE Transactions on Green Communications and Networking, 2023
-    <a href="#"
+    <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
+  </div>
+</div>
 
 <div style="margin-bottom: 25px;">
   <div style="font-weight: bold; font-size: 18px; color: #333;">
@@ -112,7 +114,7 @@ My current research centers on the following themes:
     <b>Xiaotong Cheng</b>, Yu Lu, Lei Qiao, Zhihuan Hu, Weidong Zhang
   </div>
   <div style="margin-top: 3px; font-style: italic; color: #666;">
-    IEEE Journal of Oceanic Engineering, 2020
+    IEEE Journal of Oceanic Engineering
     <a href="#" style="margin-left: 10px; font-style: normal; text-decoration: none;">[PDF]</a>
   </div>
 </div>
@@ -121,13 +123,52 @@ My current research centers on the following themes:
 
 ## Education
 
-* **Ph.D. in Electrical Engineering and Information Technology** (2023 - 2025)
-    * Ruhr University Bochum
-* **Ph.D. study in Computer Science** (2021 - 2023)
-    * University of Tuebingen (Transfered to RUB)  
-* **M.S. in Control Engineering** (2019 - 2021)
-    * Shanghai Jiao Tong University 
-* **M.S. in Electrical Engineering** (2017 - 2019)
-    * Technical University of Berlin
-* **B.S. in Automation** (2014 - 2018)
-    * Shanghai Jiao Tong University
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 17px; color: #333;">
+    Ph.D. in Electrical Engineering and Information Technology
+  </div>
+  <div style="margin-top: 2px; color: #444;">
+    Ruhr University Bochum
+    <span style="font-style: italic; color: #666; font-size: 15px; margin-left: 10px;">(2023 - 2025)</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 17px; color: #333;">
+    Ph.D. study in Computer Science
+  </div>
+  <div style="margin-top: 2px; color: #444;">
+    University of Tuebingen <span style="color: #666; font-size: 14px;">(Transferred to RUB)</span>
+    <span style="font-style: italic; color: #666; font-size: 15px; margin-left: 10px;">(2021 - 2023)</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 17px; color: #333;">
+    M.S. in Control Engineering
+  </div>
+  <div style="margin-top: 2px; color: #444;">
+    Shanghai Jiao Tong University
+    <span style="font-style: italic; color: #666; font-size: 15px; margin-left: 10px;">(2019 - 2021)</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 17px; color: #333;">
+    M.S. in Electrical Engineering
+  </div>
+  <div style="margin-top: 2px; color: #444;">
+    Technical University of Berlin
+    <span style="font-style: italic; color: #666; font-size: 15px; margin-left: 10px;">(2017 - 2019)</span>
+  </div>
+</div>
+
+<div style="margin-bottom: 20px;">
+  <div style="font-weight: bold; font-size: 17px; color: #333;">
+    B.S. in Automation
+  </div>
+  <div style="margin-top: 2px; color: #444;">
+    Shanghai Jiao Tong University
+    <span style="font-style: italic; color: #666; font-size: 15px; margin-left: 10px;">(2014 - 2018)</span>
+  </div>
+</div>
