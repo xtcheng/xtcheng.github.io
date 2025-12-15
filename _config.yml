@@ -17,7 +17,7 @@
 title: "Xiaotong Cheng"
 description: ""
 url: "https://xtcheng.github.io"
-baseurl: "" # 保持为空
+baseurl: "" 
 
 
 remote_theme: mmistakes/minimal-mistakes
@@ -30,13 +30,13 @@ plugins:
 
 author:
   name: "Xiaotong Cheng"
-  avatar: "https://github.com/xtcheng.png" 
+  avatar: "/assets/images/cxt.jpg" 
   bio: "PhD Student / Researcher"
-  location: "Your Location"
+  location: "Shandong, China"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:your-email@example.com"
+      url: "mailto:xiaotong.cheng@sdu.edu.cn"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/xtcheng"
