@@ -9,19 +9,18 @@ Hi! I am Xiaotong. I am currently an Assistant Professor in the School of Comput
 
 I obtained my Ph.D. (summa cum laude) from Ruhr University Bochum in 2025, where I was advised by Prof. Setareh Maghsudi. 
 
-My research lies at the intersection of online learning, game theory, and multi-agent systems. I am particularly interested in designing provably efficient algorithms for decision-making in complex, dynamic environments, with applications in IoT and Edge Intelligence.
+My research lies at the intersection of online learning, game theory, and multi-agent systems. I am particularly interested in designing provably efficient algorithms for decision-making in complex, dynamic environments.
 
----
+### Foundations & Theory 
 
-## Research Interests
+* Online Decision-Making: Algorithm design and regret analysis for online learning with bandit feedback
+* Multi-Agent Coordination: Game-theoretical frameworks for distributed consensus, clustering, and social learning.
 
-My current research centers on the following themes:
+### Applications 
 
-* **Online Learning & Bandits** Developing theoretical foundations for online decision-making under uncertainty, with a focus on multi-armed bandits (MAB), contextual bandits, and online learning in networked environments.
-
-* **Multi-agent Systems & Game Theory** Modeling interactions among autonomous agents using game-theoretical frameworks. I study how to achieve efficient coordination in decentralized systems through learning algorithms.
-
-* **Edge Intelligence & IoT** Applying learning and game-theoretic methods to solve real-world resource allocation and task scheduling problems in IoT and edge computing networks.
+* Social Network & Online Recommendations
+* Edge Intelligence & IoT
+* Autonomous Systems
 
 ---
 
